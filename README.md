@@ -20,8 +20,11 @@ Most of my work is under client agreements, so there is not much source code her
 | EYAS lawyers - نسخة المحامين | The lawyer side of EYAS: incoming cases matched to the lawyer's specialisation. | [Google Play](https://play.google.com/store/apps/details?id=com.eyas.consultation) |
 | Snap Skin | Dermatology advice in 24 hours: send photos, get a doctor's assessment. 10K+ downloads. | [Google Play](https://play.google.com/store/apps/details?id=tsol.derma.snapskin) |
 | Snap Skin Doctor | The doctor side of Snap Skin: review patient cases and reply. | [Google Play](https://play.google.com/store/apps/details?id=doctor.derma.snapskin) |
+| Ehgez | Medical services booking: analyses, X-rays and surgeries, paid inside the app. 15K+ monthly active users. | [Google Play](https://play.google.com/store/apps/details?id=ehgez.eg) |
+| Abudiyab Car Rent | Car rental in Saudi Arabia with real-time availability, booking and payment. Bookings up 40%. | [Google Play](https://play.google.com/store/apps/details?id=com.abudiyab.abudiyab) |
+| EGS - Games, Gift Cards & More | Digital games and gift cards for PSN, Xbox, Steam and more, with fast delivery. | [Google Play](https://play.google.com/store/apps/details?id=com.egyptgamestore.egs) |
 
-Also built for clients, published under their accounts: Ehgez (medical bookings and payments, 15K+ monthly active users), Wethaq (wedding and event hall bookings, 1,000+ in its first quarter), Abudiyab Car Rent (car rental with real-time availability) and EGS (digital gift cards and electronics).
+Also built for a client, published under their account: Wethaq (wedding and event hall bookings, 1,000+ in its first quarter).
 
 ## Android, my own account
 
